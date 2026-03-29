@@ -1,5 +1,17 @@
-## Hi there 👋
+## Lindsey Van Haute - Computational Biologist
 
+### About
+
+### Publication List
+[My Publication List](https://github.com/NextGenSeek/NextGenSeek/blob/main/PublicationList.md)
+
+### Websites
+
+[NextGenSeek](https://www.nextgenseqanalysis.com) (my company)
+
+[LinkedIn](www.linkedin.com/in/lindsey-van-haute)
+
+[Simple Science](https://www.youtube.com/@SimpleScienceLVH) (my YouTube channel)
 
 <!--
 **NextGenSeek/NextGenSeek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
