@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Snake animation](https://github.com/NextGenSeek/NextGenSeek/blob/output/github-contribution-grid-snake.svg)
+
 <!--
 **NextGenSeek/NextGenSeek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
