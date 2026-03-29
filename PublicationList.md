@@ -39,6 +39,9 @@
 [Respir Res 10:105 (2009)](https://respiratory-research.biomedcentral.com/articles/10.1186/1465-9921-10-105)
 
 ## Other publications
+- Biallelic NSUN3 Variants Cause Diverse Phenotypic Spectrum Disease: From Isolated Optic Atrophy to Severe Early-Onset Mitochondrial Disorder. Invest Ophthalmol Vis Sci (2025)
+  
+- Clinically translatable mitochondrial gene therapy in muscle using tandem mtZFN architecture. EMBO Mol Med (2025)
 
 - The catalytic activity of methyltransferase METTL15 is dispensable for its role in mitochondrial ribosome biogenesis. RNA Biology 21(1):23-30 (2024)
 
