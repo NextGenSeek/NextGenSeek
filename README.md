@@ -2,6 +2,8 @@
 
 ### About
 
+I am a Computational Biologist at the University of Cambridge with a strong background in mitochondrial biology and genome editing, now specialising in AI and machine learning. I am also the founder of NextGenSeek, a bioinformatics consultancy company.
+
 ### Publication List
 [My Publication List](https://github.com/NextGenSeek/NextGenSeek/blob/main/PublicationList.md)
 
